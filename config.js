@@ -20,8 +20,7 @@ const CONFIG = {
     // 3. النص الثالث (أثناء نمو الشجرة)
     step3: {
         subtitle: "",
-        title: "Rojbûna te pîroz be, canê min ❤️
-Hêvî dikim hemû xewnên te bibin rastî. Her tim dilxweş, serkeftî û saxlem bî. Spas ji bo hebûna te di jiyana min de. Tu ji bo min gelekî taybet î. Ez dixwazim her dem kenê te bibînim û kêfxweşiya te bibînim. Ez gelek ji te hez dikim. ❤️🎂"
+        title: "Rojbûna te pîroz be, canê min ❤️Hêvî dikim hemû xewnên te bibin rastî. Her tim dilxweş, serkeftî û saxlem bî. Spas ji bo hebûna te di jiyana min de. Tu ji bo min gelekî taybet î. Ez dixwazim her dem kenê te bibînim û kêfxweşiya te bibînim. Ez gelek ji te hez dikim. ❤️🎂"
     },
 
     // 4. النص النهائي (عند ظهور الصورة)
