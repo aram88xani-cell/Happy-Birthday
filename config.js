@@ -6,13 +6,13 @@
 const CONFIG = {
     // 1. النص الأول (عند بداية التشغيل)
     step1: {
-        subtitle: "a little something, for you",
+        subtitle: "a little something, for you Rodî",
         title: "Aim for the heart"
     },
 
     // 2. النص الثاني (بعد إطلاق السهم)
     step2: {
-        subtitle: "make a wish...",
+        subtitle: "make a wish 24..",
         title: "Happy Birthday",
         titleColor: "#ff4081" // لون النصSSS
     },
