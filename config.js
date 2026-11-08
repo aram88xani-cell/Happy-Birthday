@@ -32,5 +32,5 @@ const CONFIG = {
     hintText: "Me",
 
     // 6. مسار صورة النهاية
-    imagePath: ""
+    imagePath: "IMG_4463.HEIC"
 };   
